@@ -1,14 +1,9 @@
 <p align="center">
-Projeto de uma landing page de produto.
+Projeto de uma landing page de produto, sendo uma página responsiva.
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0F172A&labelColor=1D4ED8">
+  <a href="#-tecnologias">Tecnologias</a>
 </p>
 
 <br>
@@ -23,9 +18,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-
-## Projeto
-
-Nesse projeto você vai desenvolver a Landing Page de marketing completa e responsiva de um aplicativo de Karaokê chamado Zingen.
-
-Vamos aprender várias técnicas de CSS e como deixar um projeto responsivo.
